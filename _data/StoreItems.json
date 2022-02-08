@@ -908,13 +908,13 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
 	{
 		"abr": "gold",
-		"price": 17,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -17297,7 +17297,223 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "PW_Zubat"
+	},
+	{
+		"abr": "arc-920railgun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Asymmetric_Recoilless_Carbine"
+	},
+	{
+		"abr": "br85",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "BR85_Service_Rifle"
+	},
+	{
+		"abr": "commandoarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_CommandoArmor"
+	},
+	{
+		"abr": "commandoarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_CommandoArmorHelmet"
+	},
+	{
+		"abr": "defenderpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_DefenderPowerArmor"
+	},
+	{
+		"abr": "defenderpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DefenderPowerArmorHelmet"
+	},
+	{
+		"abr": "diplomatpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_DiplomatPowerArmor"
+	},
+	{
+		"abr": "diplomatpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DiplomatPowerArmorHelmet"
+	},
+	{
+		"abr": "engineerpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_EngineerPowerArmor"
+	},
+	{
+		"abr": "engineerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_EngineerPowerArmorHelmet"
+	},
+	{
+		"abr": "explorerpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ExplorerPowerArmor"
+	},
+	{
+		"abr": "explorerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ExplorerPowerArmorHelmet"
+	},
+	{
+		"abr": "grenadierpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_GrenadierPowerArmor"
+	},
+	{
+		"abr": "grenadierpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_GrenadierPowerArmorHelmet"
+	},
+	{
+		"abr": "hazardoperationsarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_HazardOperationsArmor"
+	},
+	{
+		"abr": "hazardoperationshelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_HazardOperationsArmorHelmet"
+	},
+	{
+		"abr": "m319individualgrenadelauncher",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "M319_Individual_Grenade_Launcher"
+	},
+	{
+		"abr": "m392dmr",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "M392_Designated_Marksman_Rifle"
+	},
+	{
+		"abr": "m41ssrmav/aw",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "M41_SSR_MAV_AW"
+	},
+	{
+		"abr": "m6dmagnum",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "M6D_Personal_Defense_Weapon_System"
+	},
+	{
+		"abr": "m7submachinegun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "M7_SubmachineGun"
+	},
+	{
+		"abr": "m739saw",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "M739_SAW"
+	},
+	{
+		"abr": "m90-cawsshotgun",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "M90-CAWS_Shotgun"
+	},
+	{
+		"abr": "ma5dassaultrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "MA5D_ICWS"
+	},
+	{
+		"abr": "poweredassaultarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_PoweredAssaultArmor"
+	},
+	{
+		"abr": "poweredassaultarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_PoweredAssaultArmorHelmet"
+	},
+	{
+		"abr": "reconpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ReconPowerArmor"
+	},
+	{
+		"abr": "reconpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ReconPowerArmorHelmet"
+	},
+	{
+		"abr": "samuraipowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_SamuraiPowerArmor"
+	},
+	{
+		"abr": "samuraipowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_SamuraiPowerArmorHelmet"
+	},
+	{
+		"abr": "scoutpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ScoutPowerArmor"
+	},
+	{
+		"abr": "scoutpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ScoutPowerArmorHelmet"
+	},
+	{
+		"abr": "shocktrooperarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ShockTrooperArmor"
+	},
+	{
+		"abr": "shocktrooperarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ShockTrooperArmorHelmet"
+	},
+	{
+		"abr": "spartanlaser",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "W-AV_M6_G-NR"
+	},
+	{
+		"abr": "srs99c-s2sniperrifle",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "SRS99C-S2_AM"
 	}
 	],
-	"total": 2883
+	"total": 2919
 }
