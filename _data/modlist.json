@@ -12,16 +12,76 @@
     "version": "9.0.1"
   },
   {
-    "author": "YAYO",
-    "name": "Yayo's Rim 3D (Beta)",
-    "steamId": "2580818414",
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "jptrrs",
-    "name": "SpeakUp",
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Luizi and  xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   },
   {
     "author": "spoonshortage",
@@ -34,6 +94,18 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.7.5"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Rimworld: Spartan Foundry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheInfinityIQ",
+    "name": "Halo UNSC Weapon Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -88,12 +160,6 @@
     "name": "SRTS Expanded",
     "steamId": "1845423808",
     "version": "1.4.6"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -172,12 +238,6 @@
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.8.0.0"
   },
   {
     "author": "CrashM",
@@ -270,18 +330,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
@@ -366,6 +414,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg Bjornson and  Oskar Potocki",
     "name": "Vanilla Cooking Expanded - Sushi",
     "steamId": null,
@@ -420,18 +480,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -452,12 +500,6 @@
   {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Storytellers Expanded - Empress Evil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
     "version": null
   },
@@ -484,30 +526,6 @@
     "name": "Vanilla Storytellers Expanded - Oskar Obnoxious",
     "steamId": "2443118113",
     "version": "1.3.0010"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Luizi and  xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki",
@@ -547,12 +565,6 @@
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
@@ -560,12 +572,6 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -583,19 +589,13 @@
   },
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.6.0"
-  },
-  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
   },
@@ -747,7 +747,7 @@
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "2734032569",
-    "version": "1.0.0.0"
+    "version": "1.0.2.1"
   },
   {
     "author": "aRandomKiwi and  CrackaJack",
@@ -758,12 +758,6 @@
   {
     "author": "NetzachSloth",
     "name": "Android Tiers - TX Series - TX5",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "telardo",
-    "name": "DragSelect",
     "steamId": null,
     "version": null
   },
@@ -811,6 +805,12 @@
   },
   {
     "author": "Wyatt Mingji Lim aka WalkingProblem",
+    "name": "[1.3] Advanced Animal Frameworks 3.95",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wyatt Mingji Lim aka WalkingProblem",
     "name": "[1.3] Starship Troopers Arachnids Ver6.3",
     "steamId": null,
     "version": null
@@ -842,12 +842,6 @@
   {
     "author": "Neceros",
     "name": "Wall Sun Lamp",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wyatt Mingji Lim aka WalkingProblem",
-    "name": "[1.3] Advanced Animal Frameworks 3.95",
     "steamId": null,
     "version": null
   }
