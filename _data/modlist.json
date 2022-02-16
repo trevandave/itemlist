@@ -6,16 +6,76 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "Chairheir",
+    "name": "Oddities: Core Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.1"
   },
   {
+    "author": "Chairheir",
+    "name": "Oddities: Weapons Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Deployables Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Rim-Effect: Prothean Archotechs",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  Smash Phil",
@@ -76,12 +136,6 @@
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
     "version": "1.0.6.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
   },
   {
     "author": "spoonshortage",
@@ -360,12 +414,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Animals Expanded — Extreme Desert",
     "steamId": null,
@@ -444,12 +492,6 @@
     "version": null
   },
   {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Igor Invader",
     "steamId": null,
@@ -484,12 +526,6 @@
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
   },
   {
     "author": "Oskar Potocki,  Erin and  Sarg Bjornson",
@@ -582,12 +618,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -652,12 +682,6 @@
     "name": "Vanilla Animals Expanded — Caves",
     "steamId": "2576512001",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -747,7 +771,7 @@
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "2734032569",
-    "version": "1.0.2.1"
+    "version": "1.0.2.2"
   },
   {
     "author": "aRandomKiwi and  CrackaJack",
@@ -760,12 +784,6 @@
     "name": "Android Tiers - TX Series - TX5",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Gargamiel",
-    "name": "PokéWorld",
-    "steamId": "2652029657",
-    "version": "1.0.0.0"
   },
   {
     "author": "rooki1",
@@ -844,5 +862,11 @@
     "name": "Wall Sun Lamp",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
