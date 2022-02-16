@@ -12313,6 +12313,420 @@
 		"defname": "MeleeWeapon_SSTSpade"
 	},
 	{
+		"abr": "aer14prototype",
+		"price": 1642,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_AER14_Prototype"
+	},
+	{
+		"abr": "arachnidcarapace",
+		"price": 42,
+		"category": "Raw resources",
+		"defname": "ArachnidCarapace"
+	},
+	{
+		"abr": "arachnidexoskeleton",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Arachnids"
+	},
+	{
+		"abr": "arachnidleg",
+		"price": 83,
+		"category": "Items",
+		"defname": "ArachnidLeg"
+	},
+	{
+		"abr": "armyofficeruniform(sst)",
+		"price": 322,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTArmyOfficerUniform"
+	},
+	{
+		"abr": "blacktrooperuniform(sst)",
+		"price": 322,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTIntelUniform"
+	},
+	{
+		"abr": "bombardierbug",
+		"price": 17,
+		"category": "Animal",
+		"defname": "Arachnid_BombardierBug"
+	},
+	{
+		"abr": "crucibleplate",
+		"price": 600,
+		"category": "Armor",
+		"defname": "Forge_Apparel_CruciblePlate"
+	},
+	{
+		"abr": "femaletx2kframe",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX2KFemale"
+	},
+	{
+		"abr": "femaletx3frame",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX3Female"
+	},
+	{
+		"abr": "femaletx4frame",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX4Female"
+	},
+	{
+		"abr": "fieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTFieldcap"
+	},
+	{
+		"abr": "fireflybug",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Arachnid_FireFlyBug"
+	},
+	{
+		"abr": "forgedagger",
+		"price": 292,
+		"category": "Melee weapons",
+		"defname": "Forge_ForgeDagger"
+	},
+	{
+		"abr": "forgeling",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Forge_Forgeling_Race"
+	},
+	{
+		"abr": "forgelingmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Forge_Forgeling_Race"
+	},
+	{
+		"abr": "furnacehelm",
+		"price": 206,
+		"category": "Headgear",
+		"defname": "Forge_Apparel_Helmet"
+	},
+	{
+		"abr": "gatlinglaser",
+		"price": 2242,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Gatling_Laser"
+	},
+	{
+		"abr": "glitterworldhuman",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GlitterWorlderRace"
+	},
+	{
+		"abr": "glitterworldhumanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_GlitterWorlderRace"
+	},
+	{
+		"abr": "gravitydwarf",
+		"price": -10,
+		"category": "Animal",
+		"defname": "HighGravWorlderRace"
+	},
+	{
+		"abr": "gravitydwarfmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_HighGravWorlderRace"
+	},
+	{
+		"abr": "helmet(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTHelmet"
+	},
+	{
+		"abr": "helmetvisor(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTVisHelmet"
+	},
+	{
+		"abr": "hopperbug",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Arachnid_HopperBug"
+	},
+	{
+		"abr": "intelarmor(sst)",
+		"price": 783,
+		"category": "Starship Trooper Armor",
+		"defname": "Apparel_SSTBlackArmor"
+	},
+	{
+		"abr": "intelguardhelmet(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntHelmet"
+	},
+	{
+		"abr": "intelguardhelmetmedical(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntMedHelmet"
+	},
+	{
+		"abr": "intelguardhelmetvisor(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntVisHelmet"
+	},
+	{
+		"abr": "intelofficercap(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntOfficerCap"
+	},
+	{
+		"abr": "intelofficercap2(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntOfficerCapTwo"
+	},
+	{
+		"abr": "inteligenceguardfieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntFieldcap"
+	},
+	{
+		"abr": "inteligenceguardmedicalfieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntMedcap"
+	},
+	{
+		"abr": "inteligenceguardncofieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTIntnNcoFieldcap"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 1308,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Laser_Pistol"
+	},
+	{
+		"abr": "laserrcw",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Laser_RCW"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 1433,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Laser_Rifle"
+	},
+	{
+		"abr": "lo-gravhuman",
+		"price": -10,
+		"category": "Animal",
+		"defname": "LowGravWorlderRace"
+	},
+	{
+		"abr": "lo-gravhumanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_LowGravWorlderRace"
+	},
+	{
+		"abr": "m.iarmor(sst)",
+		"price": 642,
+		"category": "Starship Trooper Armor",
+		"defname": "Apparel_SSTMIArmor"
+	},
+	{
+		"abr": "maletx2kframe",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX2KMale"
+	},
+	{
+		"abr": "maletx3frame",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX3Male"
+	},
+	{
+		"abr": "maletx4frame",
+		"price": 167,
+		"category": "Items",
+		"defname": "ATPP_GS_TX4Male"
+	},
+	{
+		"abr": "marinefieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMarineFieldcap"
+	},
+	{
+		"abr": "marinehelmet(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMarineHelmet"
+	},
+	{
+		"abr": "marinencofieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMarineNCOFieldcap"
+	},
+	{
+		"abr": "marineuniform(sst)",
+		"price": 358,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTMarine"
+	},
+	{
+		"abr": "marshalcap(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMarshalCap"
+	},
+	{
+		"abr": "marshalcap2(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMarshalCapTwo"
+	},
+	{
+		"abr": "marshaluniform(sst)",
+		"price": 322,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTMarshal"
+	},
+	{
+		"abr": "medicarmor(sst)",
+		"price": 533,
+		"category": "Starship Trooper Armor",
+		"defname": "Apparel_SSTMedicArmor"
+	},
+	{
+		"abr": "medichelmet(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMedicHelmet"
+	},
+	{
+		"abr": "medicalfieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMedFieldcap"
+	},
+	{
+		"abr": "mfhyperbreederalpha",
+		"price": 1700,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_MF_hyperbreeder_Alpha"
+	},
+	{
+		"abr": "mphelmet(sst)",
+		"price": 263,
+		"category": "Headgear",
+		"defname": "Apparel_SSTMPHelmet"
+	},
+	{
+		"abr": "multiplasrifle",
+		"price": 1492,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Multiplas_Rifle"
+	},
+	{
+		"abr": "navyarmor(sst)",
+		"price": 658,
+		"category": "Starship Trooper Armor",
+		"defname": "Apparel_SSTNavyArmor"
+	},
+	{
+		"abr": "navyofficeruniform(sst)",
+		"price": 322,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTNavyOfficerUniform"
+	},
+	{
+		"abr": "navyofficeruniform2(sst)",
+		"price": 322,
+		"category": "Starship Troopers Clothing",
+		"defname": "Apparel_SSTNavyOfficerUniformTwo"
+	},
+	{
+		"abr": "ncofieldcap(sst)",
+		"price": 139,
+		"category": "Headgear",
+		"defname": "Apparel_SSTNCOFieldcap"
+	},
+	{
+		"abr": "officercap2(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTOfficerCapTwo"
+	},
+	{
+		"abr": "officercap(sst)",
+		"price": 142,
+		"category": "Headgear",
+		"defname": "Apparel_SSTOfficerCap"
+	},
+	{
+		"abr": "pewpew",
+		"price": 1458,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Pew_Pew"
+	},
+	{
+		"abr": "plasmabug",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "Arachnid_PlasmaBug"
+	},
+	{
+		"abr": "plasmacaster",
+		"price": 2217,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Plasma_Caster"
+	},
+	{
+		"abr": "plasmadefender",
+		"price": 1342,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Plasma_Defender"
+	},
+	{
+		"abr": "plasmagrenadierbug",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Arachnid_PlasmaGrenadierBug"
+	},
+	{
+		"abr": "plasmapistol",
+		"price": 1342,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Plasma_Pistol"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 1458,
+		"category": "Ranged weapons",
+		"defname": "FCP_Gun_Plasma_Rifle"
+	},
+	{
 		"abr": "abomasnow",
 		"price": 917,
 		"category": "Animals",
@@ -12329,12 +12743,6 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "PW_Absol"
-	},
-	{
-		"abr": "aer14prototype",
-		"price": 1642,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_AER14_Prototype"
 	},
 	{
 		"abr": "aerodactyl",
@@ -12391,28 +12799,16 @@
 		"defname": "PW_ApricornBallBelt"
 	},
 	{
-		"abr": "arachnidcarapace",
-		"price": 42,
-		"category": "Raw resources",
-		"defname": "ArachnidCarapace"
-	},
-	{
-		"abr": "arachnidexoskeleton",
-		"price": 9,
-		"category": "Leathers",
-		"defname": "Leather_Arachnids"
-	},
-	{
-		"abr": "arachnidleg",
-		"price": 83,
-		"category": "Items",
-		"defname": "ArachnidLeg"
-	},
-	{
 		"abr": "arbok",
 		"price": 833,
 		"category": "Animals",
 		"defname": "PW_Arbok"
+	},
+	{
+		"abr": "arc-920railgun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Asymmetric_Recoilless_Carbine"
 	},
 	{
 		"abr": "arcanine",
@@ -12443,12 +12839,6 @@
 		"price": 167,
 		"category": "Fossils",
 		"defname": "PW_ArmorFossil"
-	},
-	{
-		"abr": "armyofficeruniform(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTArmyOfficerUniform"
 	},
 	{
 		"abr": "aron",
@@ -12559,12 +12949,6 @@
 		"defname": "PW_Bidoof"
 	},
 	{
-		"abr": "blacktrooperuniform(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTIntelUniform"
-	},
-	{
 		"abr": "blastoise",
 		"price": 1000,
 		"category": "Animals",
@@ -12583,16 +12967,16 @@
 		"defname": "PW_Blissey"
 	},
 	{
-		"abr": "bombardierbug",
-		"price": 17,
-		"category": "Animal",
-		"defname": "Arachnid_BombardierBug"
-	},
-	{
 		"abr": "bonsly",
 		"price": 583,
 		"category": "Animals",
 		"defname": "PW_Bonsly"
+	},
+	{
+		"abr": "br85",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "BR85_Service_Rifle"
 	},
 	{
 		"abr": "breloom",
@@ -12667,6 +13051,12 @@
 		"defname": "PW_Camerupt"
 	},
 	{
+		"abr": "cantabile",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Cantabile"
+	},
+	{
 		"abr": "carnivine",
 		"price": 833,
 		"category": "Animals",
@@ -12701,6 +13091,12 @@
 		"price": 1167,
 		"category": "Animals",
 		"defname": "PW_Celebi"
+	},
+	{
+		"abr": "chaingunturretfabricator",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployChaingunTurret"
 	},
 	{
 		"abr": "chansey",
@@ -12829,6 +13225,18 @@
 		"defname": "PW_Combusken"
 	},
 	{
+		"abr": "commandoarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_CommandoArmor"
+	},
+	{
+		"abr": "commandoarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_CommandoArmorHelmet"
+	},
+	{
 		"abr": "corphish",
 		"price": 583,
 		"category": "Animals",
@@ -12883,12 +13291,6 @@
 		"defname": "PW_Croconaw"
 	},
 	{
-		"abr": "crucibleplate",
-		"price": 600,
-		"category": "Armor",
-		"defname": "Forge_Apparel_CruciblePlate"
-	},
-	{
 		"abr": "cubone",
 		"price": 583,
 		"category": "Animals",
@@ -12905,6 +13307,24 @@
 		"price": 1167,
 		"category": "Animals",
 		"defname": "PW_Darkrai"
+	},
+	{
+		"abr": "decoyturretfabricator",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployDecoyTurret"
+	},
+	{
+		"abr": "defenderpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_DefenderPowerArmor"
+	},
+	{
+		"abr": "defenderpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DefenderPowerArmorHelmet"
 	},
 	{
 		"abr": "delcatty",
@@ -12925,6 +13345,12 @@
 		"defname": "PW_Deoxys"
 	},
 	{
+		"abr": "devil'sbargain",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_DevilsBargain"
+	},
+	{
 		"abr": "dewgong",
 		"price": 917,
 		"category": "Animals",
@@ -12941,6 +13367,18 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "PW_Diglett"
+	},
+	{
+		"abr": "diplomatpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_DiplomatPowerArmor"
+	},
+	{
+		"abr": "diplomatpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_DiplomatPowerArmorHelmet"
 	},
 	{
 		"abr": "ditto",
@@ -13105,10 +13543,28 @@
 		"defname": "PW_Empoleon"
 	},
 	{
+		"abr": "engineerpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_EngineerPowerArmor"
+	},
+	{
+		"abr": "engineerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_EngineerPowerArmorHelmet"
+	},
+	{
 		"abr": "entei",
 		"price": 1083,
 		"category": "Animals",
 		"defname": "PW_Entei"
+	},
+	{
+		"abr": "epiphany",
+		"price": 1108,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Epiphany"
 	},
 	{
 		"abr": "espeon",
@@ -13127,6 +13583,18 @@
 		"price": 1000,
 		"category": "Animals",
 		"defname": "PW_Exeggutor"
+	},
+	{
+		"abr": "explorerpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ExplorerPowerArmor"
+	},
+	{
+		"abr": "explorerpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ExplorerPowerArmorHelmet"
 	},
 	{
 		"abr": "exploud",
@@ -13153,34 +13621,10 @@
 		"defname": "PW_Feebas"
 	},
 	{
-		"abr": "femaletx2kframe",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX2KFemale"
-	},
-	{
-		"abr": "femaletx3frame",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX3Female"
-	},
-	{
-		"abr": "femaletx4frame",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX4Female"
-	},
-	{
 		"abr": "feraligatr",
 		"price": 1000,
 		"category": "Animals",
 		"defname": "PW_Feraligatr"
-	},
-	{
-		"abr": "fieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTFieldcap"
 	},
 	{
 		"abr": "finneon",
@@ -13193,12 +13637,6 @@
 		"price": 250,
 		"category": "Stones",
 		"defname": "PW_FireStone"
-	},
-	{
-		"abr": "fireflybug",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Arachnid_FireFlyBug"
 	},
 	{
 		"abr": "flaaffy",
@@ -13225,24 +13663,6 @@
 		"defname": "PW_Flygon"
 	},
 	{
-		"abr": "forgedagger",
-		"price": 292,
-		"category": "Melee weapons",
-		"defname": "Forge_ForgeDagger"
-	},
-	{
-		"abr": "forgeling",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Forge_Forgeling_Race"
-	},
-	{
-		"abr": "forgelingmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Forge_Forgeling_Race"
-	},
-	{
 		"abr": "forretress",
 		"price": 917,
 		"category": "Animals",
@@ -13253,12 +13673,6 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "PW_Froslass"
-	},
-	{
-		"abr": "furnacehelm",
-		"price": 206,
-		"category": "Headgear",
-		"defname": "Forge_Apparel_Helmet"
 	},
 	{
 		"abr": "furret",
@@ -13301,12 +13715,6 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "PW_Gastrodon"
-	},
-	{
-		"abr": "gatlinglaser",
-		"price": 2242,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Gatling_Laser"
 	},
 	{
 		"abr": "gengar",
@@ -13369,18 +13777,6 @@
 		"defname": "PW_Gliscor"
 	},
 	{
-		"abr": "glitterworldhuman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "GlitterWorlderRace"
-	},
-	{
-		"abr": "glitterworldhumanmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_GlitterWorlderRace"
-	},
-	{
 		"abr": "gloom",
 		"price": 750,
 		"category": "Animals",
@@ -13429,22 +13825,22 @@
 		"defname": "PW_Graveler"
 	},
 	{
-		"abr": "gravitydwarf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "HighGravWorlderRace"
-	},
-	{
-		"abr": "gravitydwarfmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_HighGravWorlderRace"
-	},
-	{
 		"abr": "greatballbelt",
 		"price": 492,
 		"category": "Poké Ball belts",
 		"defname": "PW_GreatBallBelt"
+	},
+	{
+		"abr": "grenadierpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_GrenadierPowerArmor"
+	},
+	{
+		"abr": "grenadierpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_GrenadierPowerArmorHelmet"
 	},
 	{
 		"abr": "grimer",
@@ -13513,10 +13909,28 @@
 		"defname": "PW_Haunter"
 	},
 	{
+		"abr": "hazardoperationsarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_HazardOperationsArmor"
+	},
+	{
+		"abr": "hazardoperationshelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_HazardOperationsArmorHelmet"
+	},
+	{
 		"abr": "healpowder",
 		"price": 667,
 		"category": "Healing",
 		"defname": "PW_HealPowder"
+	},
+	{
+		"abr": "heartstop",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Heartstop"
 	},
 	{
 		"abr": "heatran",
@@ -13529,18 +13943,6 @@
 		"price": 167,
 		"category": "Fossils",
 		"defname": "PW_HelixFossil"
-	},
-	{
-		"abr": "helmet(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTHelmet"
-	},
-	{
-		"abr": "helmetvisor(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTVisHelmet"
 	},
 	{
 		"abr": "heracross",
@@ -13595,12 +13997,6 @@
 		"price": 500,
 		"category": "Animals",
 		"defname": "PW_Hoothoot"
-	},
-	{
-		"abr": "hopperbug",
-		"price": 583,
-		"category": "Animal",
-		"defname": "Arachnid_HopperBug"
 	},
 	{
 		"abr": "hoppip",
@@ -13667,60 +14063,6 @@
 		"price": 1000,
 		"category": "Animals",
 		"defname": "PW_Infernape"
-	},
-	{
-		"abr": "intelarmor(sst)",
-		"price": 783,
-		"category": "Starship Trooper Armor",
-		"defname": "Apparel_SSTBlackArmor"
-	},
-	{
-		"abr": "intelguardhelmet(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntHelmet"
-	},
-	{
-		"abr": "intelguardhelmetmedical(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntMedHelmet"
-	},
-	{
-		"abr": "intelguardhelmetvisor(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntVisHelmet"
-	},
-	{
-		"abr": "intelofficercap(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntOfficerCap"
-	},
-	{
-		"abr": "intelofficercap2(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntOfficerCapTwo"
-	},
-	{
-		"abr": "inteligenceguardfieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntFieldcap"
-	},
-	{
-		"abr": "inteligenceguardmedicalfieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntMedcap"
-	},
-	{
-		"abr": "inteligenceguardncofieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTIntnNcoFieldcap"
 	},
 	{
 		"abr": "ivysaur",
@@ -13843,6 +14185,12 @@
 		"defname": "PW_Kricketune"
 	},
 	{
+		"abr": "kronos",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Kronos"
+	},
+	{
 		"abr": "kyogre",
 		"price": 1333,
 		"category": "Animals",
@@ -13871,24 +14219,6 @@
 		"price": 583,
 		"category": "Animals",
 		"defname": "PW_Larvitar"
-	},
-	{
-		"abr": "laserpistol",
-		"price": 1308,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Laser_Pistol"
-	},
-	{
-		"abr": "laserrcw",
-		"price": 2083,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Laser_RCW"
-	},
-	{
-		"abr": "laserrifle",
-		"price": 1433,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Laser_Rifle"
 	},
 	{
 		"abr": "latias",
@@ -13933,6 +14263,12 @@
 		"defname": "PW_Leather_Legendary"
 	},
 	{
+		"abr": "leyline",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Bow_Leyline"
+	},
+	{
 		"abr": "lickilicky",
 		"price": 1000,
 		"category": "Animals",
@@ -13955,18 +14291,6 @@
 		"price": 833,
 		"category": "Animals",
 		"defname": "PW_Linoone"
-	},
-	{
-		"abr": "lo-gravhuman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "LowGravWorlderRace"
-	},
-	{
-		"abr": "lo-gravhumanmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_LowGravWorlderRace"
 	},
 	{
 		"abr": "lombre",
@@ -14041,10 +14365,52 @@
 		"defname": "PW_Luxray"
 	},
 	{
-		"abr": "m.iarmor(sst)",
-		"price": 642,
-		"category": "Starship Trooper Armor",
-		"defname": "Apparel_SSTMIArmor"
+		"abr": "m319individualgrenadelauncher",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "M319_Individual_Grenade_Launcher"
+	},
+	{
+		"abr": "m392dmr",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "M392_Designated_Marksman_Rifle"
+	},
+	{
+		"abr": "m41ssrmav/aw",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "M41_SSR_MAV_AW"
+	},
+	{
+		"abr": "m6dmagnum",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "M6D_Personal_Defense_Weapon_System"
+	},
+	{
+		"abr": "m7submachinegun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "M7_SubmachineGun"
+	},
+	{
+		"abr": "m739saw",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "M739_SAW"
+	},
+	{
+		"abr": "m90-cawsshotgun",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "M90-CAWS_Shotgun"
+	},
+	{
+		"abr": "ma5dassaultrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "MA5D_ICWS"
 	},
 	{
 		"abr": "machamp",
@@ -14119,24 +14485,6 @@
 		"defname": "PW_Makuhita"
 	},
 	{
-		"abr": "maletx2kframe",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX2KMale"
-	},
-	{
-		"abr": "maletx3frame",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX3Male"
-	},
-	{
-		"abr": "maletx4frame",
-		"price": 167,
-		"category": "Items",
-		"defname": "ATPP_GS_TX4Male"
-	},
-	{
 		"abr": "mamoswine",
 		"price": 1000,
 		"category": "Animals",
@@ -14185,52 +14533,10 @@
 		"defname": "PW_Marill"
 	},
 	{
-		"abr": "marinefieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMarineFieldcap"
-	},
-	{
-		"abr": "marinehelmet(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMarineHelmet"
-	},
-	{
-		"abr": "marinencofieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMarineNCOFieldcap"
-	},
-	{
-		"abr": "marineuniform(sst)",
-		"price": 358,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTMarine"
-	},
-	{
 		"abr": "marowak",
 		"price": 833,
 		"category": "Animals",
 		"defname": "PW_Marowak"
-	},
-	{
-		"abr": "marshalcap(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMarshalCap"
-	},
-	{
-		"abr": "marshalcap2(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMarshalCapTwo"
-	},
-	{
-		"abr": "marshaluniform(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTMarshal"
 	},
 	{
 		"abr": "marshtomp",
@@ -14263,22 +14569,10 @@
 		"defname": "PW_MaxPotion"
 	},
 	{
-		"abr": "medicarmor(sst)",
-		"price": 533,
-		"category": "Starship Trooper Armor",
-		"defname": "Apparel_SSTMedicArmor"
-	},
-	{
-		"abr": "medichelmet(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMedicHelmet"
-	},
-	{
-		"abr": "medicalfieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMedFieldcap"
+		"abr": "mechanoiddistresssignaler",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_CallMechPods"
 	},
 	{
 		"abr": "medicham",
@@ -14297,6 +14591,12 @@
 		"price": 1000,
 		"category": "Animals",
 		"defname": "PW_Meganium"
+	},
+	{
+		"abr": "mendstormbeaconbelt",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployMendBeacon"
 	},
 	{
 		"abr": "meowth",
@@ -14341,10 +14641,10 @@
 		"defname": "PW_Mewtwo"
 	},
 	{
-		"abr": "mfhyperbreederalpha",
-		"price": 1700,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_MF_hyperbreeder_Alpha"
+		"abr": "microturretfabricator",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployMicroTurret"
 	},
 	{
 		"abr": "mightyena",
@@ -14395,6 +14695,12 @@
 		"defname": "PW_Moltres"
 	},
 	{
+		"abr": "momentum",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Momentum"
+	},
+	{
 		"abr": "monferno",
 		"price": 750,
 		"category": "Animals",
@@ -14411,12 +14717,6 @@
 		"price": 833,
 		"category": "Animals",
 		"defname": "PW_Mothim"
-	},
-	{
-		"abr": "mphelmet(sst)",
-		"price": 263,
-		"category": "Headgear",
-		"defname": "Apparel_SSTMPHelmet"
 	},
 	{
 		"abr": "mr.mime",
@@ -14437,12 +14737,6 @@
 		"defname": "PW_Muk"
 	},
 	{
-		"abr": "multiplasrifle",
-		"price": 1492,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Multiplas_Rifle"
-	},
-	{
 		"abr": "munchlax",
 		"price": 750,
 		"category": "Animals",
@@ -14459,30 +14753,6 @@
 		"price": 583,
 		"category": "Animals",
 		"defname": "PW_Natu"
-	},
-	{
-		"abr": "navyarmor(sst)",
-		"price": 658,
-		"category": "Starship Trooper Armor",
-		"defname": "Apparel_SSTNavyArmor"
-	},
-	{
-		"abr": "navyofficeruniform(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTNavyOfficerUniform"
-	},
-	{
-		"abr": "navyofficeruniform2(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTNavyOfficerUniformTwo"
-	},
-	{
-		"abr": "ncofieldcap(sst)",
-		"price": 139,
-		"category": "Headgear",
-		"defname": "Apparel_SSTNCOFieldcap"
 	},
 	{
 		"abr": "nidoking",
@@ -14575,16 +14845,22 @@
 		"defname": "PW_Oddish"
 	},
 	{
-		"abr": "officercap2(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTOfficerCapTwo"
+		"abr": "odditydeployablestrongbox",
+		"price": 4167,
+		"category": "Artifacts",
+		"defname": "OD_OddityStrongbox_Deployables"
 	},
 	{
-		"abr": "officercap(sst)",
-		"price": 142,
-		"category": "Headgear",
-		"defname": "Apparel_SSTOfficerCap"
+		"abr": "oddityfragment",
+		"price": 833,
+		"category": "Items",
+		"defname": "OC_OddityFragment"
+	},
+	{
+		"abr": "oddityweaponstrongbox",
+		"price": 4167,
+		"category": "Artifacts",
+		"defname": "OC_OddityStrongbox_Weapons"
 	},
 	{
 		"abr": "oldamber",
@@ -14609,6 +14885,12 @@
 		"price": 750,
 		"category": "Animals",
 		"defname": "PW_Onix"
+	},
+	{
+		"abr": "overclockedgeneratorbelt",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployOverclockedGenerator"
 	},
 	{
 		"abr": "pachirisu",
@@ -14645,12 +14927,6 @@
 		"price": 833,
 		"category": "Animals",
 		"defname": "PW_Persian"
-	},
-	{
-		"abr": "pewpew",
-		"price": 1458,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Pew_Pew"
 	},
 	{
 		"abr": "phanpy",
@@ -14719,46 +14995,16 @@
 		"defname": "PW_Piplup"
 	},
 	{
-		"abr": "plasmabug",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "Arachnid_PlasmaBug"
-	},
-	{
-		"abr": "plasmacaster",
-		"price": 2217,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Plasma_Caster"
-	},
-	{
-		"abr": "plasmadefender",
-		"price": 1342,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Plasma_Defender"
-	},
-	{
-		"abr": "plasmagrenadierbug",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Arachnid_PlasmaGrenadierBug"
-	},
-	{
-		"abr": "plasmapistol",
-		"price": 1342,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Plasma_Pistol"
-	},
-	{
-		"abr": "plasmarifle",
-		"price": 1458,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Plasma_Rifle"
-	},
-	{
 		"abr": "plusle",
 		"price": 750,
 		"category": "Animals",
 		"defname": "PW_Plusle"
+	},
+	{
+		"abr": "pointdefensedronebelt",
+		"price": 4667,
+		"category": "Utility",
+		"defname": "OD_Apparel_DeployPDD"
 	},
 	{
 		"abr": "pokéballbelt",
@@ -16111,6 +16357,18 @@
 		"defname": "PW_Potion"
 	},
 	{
+		"abr": "poweredassaultarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_PoweredAssaultArmor"
+	},
+	{
+		"abr": "poweredassaultarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_PoweredAssaultArmorHelmet"
+	},
+	{
 		"abr": "primeape",
 		"price": 833,
 		"category": "Animals",
@@ -16133,6 +16391,12 @@
 		"price": 1000,
 		"category": "Animals",
 		"defname": "PW_Probopass"
+	},
+	{
+		"abr": "proboscis",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Proboscis"
 	},
 	{
 		"abr": "psyduck",
@@ -16178,7 +16442,7 @@
 	},
 	{
 		"abr": "radworldhuman",
-		"price": -10,
+		"price": 2583,
 		"category": "Animal",
 		"defname": "RadWorlderRace"
 	},
@@ -16253,6 +16517,18 @@
 		"price": 1400,
 		"category": "Ranged weapons",
 		"defname": "FCP_Gun_Recharger_Rifle"
+	},
+	{
+		"abr": "reconpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ReconPowerArmor"
+	},
+	{
+		"abr": "reconpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ReconPowerArmorHelmet"
 	},
 	{
 		"abr": "regice",
@@ -16339,6 +16615,12 @@
 		"defname": "PW_Rotom"
 	},
 	{
+		"abr": "roulette",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Roulette"
+	},
+	{
 		"abr": "sableye",
 		"price": 750,
 		"category": "Animals",
@@ -16349,6 +16631,18 @@
 		"price": 1167,
 		"category": "Animals",
 		"defname": "PW_Salamence"
+	},
+	{
+		"abr": "samuraipowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_SamuraiPowerArmor"
+	},
+	{
+		"abr": "samuraipowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_SamuraiPowerArmorHelmet"
 	},
 	{
 		"abr": "sandshrew",
@@ -16379,6 +16673,18 @@
 		"price": 5833,
 		"category": "Animal",
 		"defname": "Arachnid_ScorpionBug"
+	},
+	{
+		"abr": "scoutpowerarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ScoutPowerArmor"
+	},
+	{
+		"abr": "scoutpowerarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ScoutPowerArmorHelmet"
 	},
 	{
 		"abr": "scyther",
@@ -16501,6 +16807,18 @@
 		"defname": "PW_ShinyStone"
 	},
 	{
+		"abr": "shocktrooperarmor",
+		"price": 4333,
+		"category": "Armor",
+		"defname": "SF_ShockTrooperArmor"
+	},
+	{
+		"abr": "shocktrooperarmorhelmet",
+		"price": 1750,
+		"category": "Headgear",
+		"defname": "SF_ShockTrooperArmorHelmet"
+	},
+	{
 		"abr": "shroomish",
 		"price": 583,
 		"category": "Animals",
@@ -16559,6 +16877,12 @@
 		"price": 917,
 		"category": "Animals",
 		"defname": "PW_Skuntank"
+	},
+	{
+		"abr": "skyslasher",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Skyslasher"
 	},
 	{
 		"abr": "slaking",
@@ -16645,6 +16969,12 @@
 		"defname": "PW_Solrock"
 	},
 	{
+		"abr": "spartanlaser",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "W-AV_M6_G-NR"
+	},
+	{
 		"abr": "spearow",
 		"price": 500,
 		"category": "Animals",
@@ -16687,833 +17017,59 @@
 		"defname": "FCP_Gun_Sprtel_Wood_9700a"
 	},
 	{
+		"abr": "darkcandle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_DarkCandle"
+	},
+	{
+		"abr": "darkilluminateddresser",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "Table_DarkIlluminatedDresser"
+	},
+	{
+		"abr": "darkilluminatedendtable",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "Table_DarkIlluminatedEndTable"
+	},
+	{
+		"abr": "darklampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_DarkLightEndTable"
+	},
+	{
+		"abr": "moderndarklamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernDarkLamp"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_OutdoorDarkLamp"
+	},
+	{
+		"abr": "outdoorsolardarklamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Spacer_OutdoorDarkLamp"
+	},
+	{
+		"abr": "spacerdarklamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Light_SpacerDarkLamp"
+	},
+	{
 		"abr": "squirtle",
 		"price": 583,
 		"category": "Animals",
 		"defname": "PW_Squirtle"
-	},
-	{
-		"abr": "staffofficeruniform(sst)",
-		"price": 322,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTIntelOfficerUniform"
-	},
-	{
-		"abr": "stantler",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Stantler"
-	},
-	{
-		"abr": "staraptor",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Staraptor"
-	},
-	{
-		"abr": "staravia",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Staravia"
-	},
-	{
-		"abr": "starly",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Starly"
-	},
-	{
-		"abr": "starmie",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Starmie"
-	},
-	{
-		"abr": "staryu",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Staryu"
-	},
-	{
-		"abr": "steelix",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Steelix"
-	},
-	{
-		"abr": "stunky",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Stunky"
-	},
-	{
-		"abr": "sudowoodo",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Sudowoodo"
-	},
-	{
-		"abr": "suicune",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Suicune"
-	},
-	{
-		"abr": "sunflora",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Sunflora"
-	},
-	{
-		"abr": "sunkern",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Sunkern"
-	},
-	{
-		"abr": "surskit",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Surskit"
-	},
-	{
-		"abr": "swablu",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Swablu"
-	},
-	{
-		"abr": "swalot",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Swalot"
-	},
-	{
-		"abr": "swampert",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Swampert"
-	},
-	{
-		"abr": "swellow",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Swellow"
-	},
-	{
-		"abr": "swinub",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Swinub"
-	},
-	{
-		"abr": "taillow",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Taillow"
-	},
-	{
-		"abr": "tangela",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Tangela"
-	},
-	{
-		"abr": "tangrowth",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Tangrowth"
-	},
-	{
-		"abr": "tankerbug",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "Arachnid_TankerBug"
-	},
-	{
-		"abr": "tauros",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Tauros"
-	},
-	{
-		"abr": "teddiursa",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Teddiursa"
-	},
-	{
-		"abr": "tentacool",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Tentacool"
-	},
-	{
-		"abr": "tentacruel",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Tentacruel"
-	},
-	{
-		"abr": "thunderstone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_ThunderStone"
-	},
-	{
-		"abr": "togekiss",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Togekiss"
-	},
-	{
-		"abr": "togepi",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Togepi"
-	},
-	{
-		"abr": "togetic",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Togetic"
-	},
-	{
-		"abr": "torchic",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Torchic"
-	},
-	{
-		"abr": "torkoal",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Torkoal"
-	},
-	{
-		"abr": "torterra",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Torterra"
-	},
-	{
-		"abr": "totodile",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Totodile"
-	},
-	{
-		"abr": "toxicroak",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Toxicroak"
-	},
-	{
-		"abr": "trapinch",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Trapinch"
-	},
-	{
-		"abr": "treecko",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Treecko"
-	},
-	{
-		"abr": "tri-beamlaserrifle",
-		"price": 1458,
-		"category": "Ranged weapons",
-		"defname": "FCP_Gun_Tri_Beam_Laser_Rifle"
-	},
-	{
-		"abr": "trooperuniform(sst)",
-		"price": 350,
-		"category": "Starship Troopers Clothing",
-		"defname": "Apparel_SSTtrooper"
-	},
-	{
-		"abr": "tropius",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Tropius"
-	},
-	{
-		"abr": "turtwig",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Turtwig"
-	},
-	{
-		"abr": "tx2android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android2TX"
-	},
-	{
-		"abr": "tx2iandroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android2ITX"
-	},
-	{
-		"abr": "tx2kandroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android2KTX"
-	},
-	{
-		"abr": "tx2kiandroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android2KITX"
-	},
-	{
-		"abr": "tx3android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android3TX"
-	},
-	{
-		"abr": "tx3iandroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android3ITX"
-	},
-	{
-		"abr": "tx4android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android4TX"
-	},
-	{
-		"abr": "tx4iandroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android4ITX"
-	},
-	{
-		"abr": "tx5android",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ATPP_Android5TX"
-	},
-	{
-		"abr": "typhlosion",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Typhlosion"
-	},
-	{
-		"abr": "tyranitar",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "PW_Tyranitar"
-	},
-	{
-		"abr": "tyrogue",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Tyrogue"
-	},
-	{
-		"abr": "ultraballbelt",
-		"price": 1383,
-		"category": "Poké Ball belts",
-		"defname": "PW_UltraBallBelt"
-	},
-	{
-		"abr": "umbreon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Umbreon"
-	},
-	{
-		"abr": "unown",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Unown"
-	},
-	{
-		"abr": "upgrade",
-		"price": 683,
-		"category": "Other",
-		"defname": "PW_Upgrade"
-	},
-	{
-		"abr": "ursaring",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Ursaring"
-	},
-	{
-		"abr": "uxie",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Uxie"
-	},
-	{
-		"abr": "vaporeon",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Vaporeon"
-	},
-	{
-		"abr": "vatdrone",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VatgrownHumanRace"
-	},
-	{
-		"abr": "vatdronemeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_VatgrownHumanRace"
-	},
-	{
-		"abr": "venomoth",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Venomoth"
-	},
-	{
-		"abr": "venonat",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Venonat"
-	},
-	{
-		"abr": "venusaur",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Venusaur"
-	},
-	{
-		"abr": "vespiquen",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Vespiquen"
-	},
-	{
-		"abr": "vibrava",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Vibrava"
-	},
-	{
-		"abr": "victreebel",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Victreebel"
-	},
-	{
-		"abr": "vigoroth",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Vigoroth"
-	},
-	{
-		"abr": "vileplume",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Vileplume"
-	},
-	{
-		"abr": "volbeat",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Volbeat"
-	},
-	{
-		"abr": "voltorb",
-		"price": 667,
-		"category": "Animals",
-		"defname": "PW_Voltorb"
-	},
-	{
-		"abr": "vulpix",
-		"price": 583,
-		"category": "Animals",
-		"defname": "PW_Vulpix"
-	},
-	{
-		"abr": "wailmer",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Wailmer"
-	},
-	{
-		"abr": "wailord",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Wailord"
-	},
-	{
-		"abr": "walrein",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Walrein"
-	},
-	{
-		"abr": "warriorbug",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Arachnid_WarriorBug"
-	},
-	{
-		"abr": "warriorbug",
-		"price": 250,
-		"category": "Animal",
-		"defname": "Arachnid_WarriorBugHive"
-	},
-	{
-		"abr": "wartortle",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Wartortle"
-	},
-	{
-		"abr": "waterstone",
-		"price": 250,
-		"category": "Stones",
-		"defname": "PW_WaterStone"
-	},
-	{
-		"abr": "weavile",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Weavile"
-	},
-	{
-		"abr": "weedle",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Weedle"
-	},
-	{
-		"abr": "weepinbell",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Weepinbell"
-	},
-	{
-		"abr": "weezing",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Weezing"
-	},
-	{
-		"abr": "whiscash",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Whiscash"
-	},
-	{
-		"abr": "whismur",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Whismur"
-	},
-	{
-		"abr": "wigglytuff",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Wigglytuff"
-	},
-	{
-		"abr": "wingull",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Wingull"
-	},
-	{
-		"abr": "wobbuffet",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Wobbuffet"
-	},
-	{
-		"abr": "wooper",
-		"price": 417,
-		"category": "Animals",
-		"defname": "PW_Wooper"
-	},
-	{
-		"abr": "wormadam",
-		"price": 833,
-		"category": "Animals",
-		"defname": "PW_Wormadam"
-	},
-	{
-		"abr": "wurmple",
-		"price": 333,
-		"category": "Animals",
-		"defname": "PW_Wurmple"
-	},
-	{
-		"abr": "wynaut",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Wynaut"
-	},
-	{
-		"abr": "xatu",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Xatu"
-	},
-	{
-		"abr": "yanma",
-		"price": 750,
-		"category": "Animals",
-		"defname": "PW_Yanma"
-	},
-	{
-		"abr": "yanmega",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "PW_Yanmega"
-	},
-	{
-		"abr": "zangoose",
-		"price": 917,
-		"category": "Animals",
-		"defname": "PW_Zangoose"
-	},
-	{
-		"abr": "zapdos",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "PW_Zapdos"
-	},
-	{
-		"abr": "zigzagoon",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Zigzagoon"
-	},
-	{
-		"abr": "zubat",
-		"price": 500,
-		"category": "Animals",
-		"defname": "PW_Zubat"
-	},
-	{
-		"abr": "arc-920railgun",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "Asymmetric_Recoilless_Carbine"
-	},
-	{
-		"abr": "br85",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "BR85_Service_Rifle"
-	},
-	{
-		"abr": "commandoarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_CommandoArmor"
-	},
-	{
-		"abr": "commandoarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_CommandoArmorHelmet"
-	},
-	{
-		"abr": "defenderpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_DefenderPowerArmor"
-	},
-	{
-		"abr": "defenderpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_DefenderPowerArmorHelmet"
-	},
-	{
-		"abr": "diplomatpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_DiplomatPowerArmor"
-	},
-	{
-		"abr": "diplomatpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_DiplomatPowerArmorHelmet"
-	},
-	{
-		"abr": "engineerpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_EngineerPowerArmor"
-	},
-	{
-		"abr": "engineerpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_EngineerPowerArmorHelmet"
-	},
-	{
-		"abr": "explorerpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ExplorerPowerArmor"
-	},
-	{
-		"abr": "explorerpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ExplorerPowerArmorHelmet"
-	},
-	{
-		"abr": "grenadierpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_GrenadierPowerArmor"
-	},
-	{
-		"abr": "grenadierpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_GrenadierPowerArmorHelmet"
-	},
-	{
-		"abr": "hazardoperationsarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_HazardOperationsArmor"
-	},
-	{
-		"abr": "hazardoperationshelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_HazardOperationsArmorHelmet"
-	},
-	{
-		"abr": "m319individualgrenadelauncher",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "M319_Individual_Grenade_Launcher"
-	},
-	{
-		"abr": "m392dmr",
-		"price": 1083,
-		"category": "Ranged weapons",
-		"defname": "M392_Designated_Marksman_Rifle"
-	},
-	{
-		"abr": "m41ssrmav/aw",
-		"price": 8333,
-		"category": "Ranged weapons",
-		"defname": "M41_SSR_MAV_AW"
-	},
-	{
-		"abr": "m6dmagnum",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "M6D_Personal_Defense_Weapon_System"
-	},
-	{
-		"abr": "m7submachinegun",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "M7_SubmachineGun"
-	},
-	{
-		"abr": "m739saw",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "M739_SAW"
-	},
-	{
-		"abr": "m90-cawsshotgun",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "M90-CAWS_Shotgun"
-	},
-	{
-		"abr": "ma5dassaultrifle",
-		"price": 1083,
-		"category": "Ranged weapons",
-		"defname": "MA5D_ICWS"
-	},
-	{
-		"abr": "poweredassaultarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_PoweredAssaultArmor"
-	},
-	{
-		"abr": "poweredassaultarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_PoweredAssaultArmorHelmet"
-	},
-	{
-		"abr": "reconpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ReconPowerArmor"
-	},
-	{
-		"abr": "reconpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ReconPowerArmorHelmet"
-	},
-	{
-		"abr": "samuraipowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_SamuraiPowerArmor"
-	},
-	{
-		"abr": "samuraipowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_SamuraiPowerArmorHelmet"
-	},
-	{
-		"abr": "scoutpowerarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ScoutPowerArmor"
-	},
-	{
-		"abr": "scoutpowerarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ScoutPowerArmorHelmet"
-	},
-	{
-		"abr": "shocktrooperarmor",
-		"price": 4333,
-		"category": "Armor",
-		"defname": "SF_ShockTrooperArmor"
-	},
-	{
-		"abr": "shocktrooperarmorhelmet",
-		"price": 1750,
-		"category": "Headgear",
-		"defname": "SF_ShockTrooperArmorHelmet"
-	},
-	{
-		"abr": "spartanlaser",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "W-AV_M6_G-NR"
-	},
-	{
-		"abr": "srs99c-s2sniperrifle",
-		"price": 2250,
-		"category": "Ranged weapons",
-		"defname": "SRS99C-S2_AM"
 	}
 	],
-	"total": 2919
+	"total": 2950
 }
