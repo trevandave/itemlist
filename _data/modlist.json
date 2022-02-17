@@ -36,12 +36,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gargamiel",
-    "name": "PokéWorld",
-    "steamId": "2652029657",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
     "steamId": null,
@@ -120,34 +114,22 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.7.5"
+  },
+  {
     "author": "Oskar Potocki,  Luizi and  xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
     "version": "1.0.6.0"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Weilbyte",
-    "name": "Snap Out!",
-    "steamId": "1319782555",
-    "version": "0.7.5"
   },
   {
     "author": "Oskar Potocki",
@@ -301,12 +283,6 @@
   },
   {
     "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
-    "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
@@ -349,13 +325,13 @@
   },
   {
     "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Interface",
+    "name": "Rim-Effect: Extended Cut",
     "steamId": null,
     "version": null
   },
   {
     "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Extended Cut",
+    "name": "Rim-Effect: Interface",
     "steamId": null,
     "version": null
   },
@@ -462,22 +438,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and  Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Alestria",
@@ -499,6 +463,12 @@
   },
   {
     "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
@@ -506,18 +476,6 @@
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Temperate Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -540,12 +498,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
@@ -566,12 +518,6 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
   },
@@ -666,12 +612,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Ideology Expanded - Splits and Schisms",
     "steamId": "2573138902",
@@ -706,6 +646,12 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -798,20 +744,8 @@
     "version": null
   },
   {
-    "author": "✯KStrudel✯™ and Odstriman",
-    "name": "Starship Troopers - Uniforms (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Rick",
     "name": "FCP FNV Laser Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "✯KStrudel✯™ and ChickenPlucker",
-    "name": "Starship Troopers - Weapons (Continued)",
     "steamId": null,
     "version": null
   },
@@ -834,20 +768,8 @@
     "version": null
   },
   {
-    "author": "Derek Bickley",
-    "name": "[JAIL] Prison Bed",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ogam,  Taranchuck and  Venomancer777",
     "name": "Forgelings race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "[LTw] Force Field Walls",
     "steamId": null,
     "version": null
   },
