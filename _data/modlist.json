@@ -1,15 +1,21 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
-    "author": "Chairheir",
-    "name": "Oddities: Core Module",
-    "steamId": null,
-    "version": null
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
   },
   {
     "author": "UnlimitedHugs",
@@ -18,8 +24,206 @@
     "version": "9.0.1"
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Butterfish",
+    "name": "Hair Modding Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Warcaskets: Adeptus Astartes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Gloomy Hair - Upscaled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killface",
+    "name": "FS Beards And Taches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0"
+  },
+  {
+    "author": "moronic",
+    "name": "Arachne Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Core Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Chairheir",
     "name": "Oddities: Weapons Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Drell",
+    "steamId": "2651150217",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and  Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodudee17 and  Oskar Potocki",
+    "name": "Vanilla Backgrounds Expanded",
+    "steamId": "2775017012",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kciroy5",
+    "name": "Umbreon Race mod",
     "steamId": null,
     "version": null
   },
@@ -30,16 +234,142 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "JamesTheMaker",
+    "name": "[CP] Prisoner Outfit (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Scurvyez",
+    "name": "StevesWalls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LinaFromSweden",
+    "name": "SimplyMoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "TasteOfVanilla-ish Arachne Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Rim-Effect: SRTS Shuttles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Cerberus Mantis Gunship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Xeva's Rimhair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xeva",
+    "name": "Standalone Hot Spring Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Cerberus Weapons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
@@ -70,12 +400,6 @@
     "name": "Rim-Effect: Prothean Archotechs",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
   },
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
@@ -129,7 +453,7 @@
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
-    "version": "1.0.6.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Oskar Potocki",
@@ -146,8 +470,8 @@
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "misonomi",
@@ -168,46 +492,16 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "R-MK",
     "name": "Anthro Race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "AUTOMATIC and  Oracle of Thessia",
     "name": "Rim-Effect: Themis Traders",
     "steamId": "2488461271",
     "version": "1.0.350.0854"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oracle of Thessia",
-    "name": "Rim-Effect: SRTS Shuttles",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -225,7 +519,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "version": "6.2.0.5"
   },
   {
     "author": "aRandomKiwi",
@@ -309,19 +603,13 @@
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
-    "version": "1.0.0.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -337,27 +625,9 @@
   },
   {
     "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: N7",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
     "name": "Rim-Effect: Music",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Asari and Reapers",
-    "steamId": "2651149728",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Drell",
-    "steamId": "2651150217",
-    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
@@ -436,12 +706,6 @@
     "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Alestria",
@@ -649,12 +913,6 @@
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
@@ -684,7 +942,7 @@
     "version": null
   },
   {
-    "author": "legodude17,  Oskar Potocki,  Chowder and  Kikohi",
+    "author": "Anonymous, legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
@@ -694,12 +952,6 @@
     "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -762,18 +1014,6 @@
     "version": null
   },
   {
-    "author": "Wyatt Mingji Lim aka WalkingProblem",
-    "name": "[1.3] Starship Troopers Arachnids Ver6.3",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam,  Taranchuck and  Venomancer777",
-    "name": "Forgelings race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Morphium",
     "name": "Morphs Assorted: Hairs",
     "steamId": null,
@@ -784,6 +1024,12 @@
     "name": "Wall Sun Lamp",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
   },
   {
     "author": "Krkr",
