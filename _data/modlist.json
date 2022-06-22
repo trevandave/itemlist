@@ -18,6 +18,36 @@
     "version": "3.4.91"
   },
   {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ARandomCogboi",
+    "name": "Servitor Brain Chip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pureMJ",
+    "name": "Vanilla Fix: Haul After Slaughter",
+    "steamId": "2801452324",
+    "version": "0.1.0"
+  },
+  {
+    "author": "JangoD'soul and  ParaNautic",
+    "name": "RE Black Storm Guard",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -32,6 +62,18 @@
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "3.1.0.0"
+  },
+  {
+    "author": "PresGD",
+    "name": "Zombieland Storyteller",
     "steamId": null,
     "version": null
   },
@@ -519,7 +561,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "aRandomKiwi",
