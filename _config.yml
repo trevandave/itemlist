@@ -72,4 +72,4 @@ remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
