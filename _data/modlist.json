@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Nals",
@@ -18,10 +18,34 @@
     "version": "3.4.91"
   },
   {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "test",
+    "name": "TMaterials - Glass",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "orannj",
+    "name": "Star Trek: Federation (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "jeonggihun",
@@ -66,24 +90,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.1.0.0"
-  },
-  {
-    "author": "PresGD",
-    "name": "Zombieland Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Butterfish",
     "name": "Hair Modding Plus",
     "steamId": null,
@@ -93,12 +99,6 @@
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "author": "Neronix17",
-    "name": "[O21] Toolbox",
+    "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.0"
+    "version": "2.5.8254.23319"
   },
   {
     "author": "moronic",
@@ -615,7 +615,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3136.1"
+    "version": "1.3.3389.1"
   },
   {
     "author": "Fluffy",
@@ -1074,9 +1074,51 @@
     "version": "1.0.1.2"
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
+    "author": "Candycorn",
+    "name": "Candy Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "crazedmonkey231",
+    "name": "Metal Rim Rising",
+    "steamId": "2802023013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CatCraftYT",
+    "name": "Stargates!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Vanilla Genetics Expanded – Animal Work Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Genetics Expanded - More Lab Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "peytonshow",
+    "name": "[M.W]Multi-ToolBox",
+    "steamId": null,
+    "version": null
   }
 ]
