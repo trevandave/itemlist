@@ -1769,7 +1769,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1786,7 +1788,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2219,7 +2223,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2228,7 +2234,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2245,7 +2253,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2254,7 +2264,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2271,7 +2283,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2280,7 +2294,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2497,7 +2513,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2510,7 +2528,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2527,7 +2547,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2538,7 +2560,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2788,7 +2812,7 @@
       "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -2882,10 +2906,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -2959,7 +2987,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -2968,7 +2998,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3020,10 +3052,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3519,26 +3555,28 @@
       "canRemove": true,
       "addPrice": 1,
       "removePrice": 1,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "degree": 0,
+      "description": "Timmy is a biotic god.",
       "stats": [
-        "+3.0 beauty"
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+3.0 beauty"
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "Rim-Effect: Core",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
+      "defName": "RE_BioticGod",
+      "name": "bioticgod"
     },
     {
       "canAdd": true,
@@ -3546,141 +3584,189 @@
       "addPrice": 1,
       "removePrice": 1,
       "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
       "stats": [
-        "-3.0 beauty"
+        "-0.8 biotic energy recovery rate"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-3.0 beauty"
+          "-0.8 biotic energy recovery rate"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "Rim-Effect: Core",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1,
       "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is not affected by the effects of aging.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "EvolvedOrgansRedux",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EVOR_RasVacoule",
-      "name": "rasvacoule"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+      "degree": -1,
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
       "stats": [
-        "+20 shooting",
-        "+20 melee"
+        "-0.5 biotic energy recovery rate"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+20 shooting",
-          "+20 melee"
+          "-0.5 biotic energy recovery rate"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "EvolvedOrgansRedux",
+        "mod": "Rim-Effect: Core",
         "karmaTypeForAdding": null
       },
-      "defName": "EVOR_ExcellentFighter",
-      "name": "reptilianbrain"
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull"
     },
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Everything Timmy cooks turns into Dark matter.",
-      "stats": [],
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 1,
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 2,
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is a Demon of the Night Winds.",
+      "stats": [
+        "x150% biotic energy limit",
+        "x200% biotic energy recovery rate",
+        "x50% biotic ability cost multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x150% biotic energy limit",
+          "x200% biotic energy recovery rate",
+          "x50% biotic ability cost multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Asari and Reapers",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_ArdatYakshi",
+      "name": "ardatyakshi"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kijin Race 3.0",
+        "mod": "Vanilla Races Expanded - Highmate",
         "karmaTypeForAdding": null
       },
-      "defName": "IncompetentCook",
-      "name": "incompetentcook"
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     }
   ],
   "races": [
@@ -3753,7 +3839,7 @@
       "defName": "Anthro",
       "enabled": true,
       "name": "Anthro",
-      "price": 4167
+      "price": 1
     }
   ]
 }
