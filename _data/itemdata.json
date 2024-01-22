@@ -55199,7 +55199,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BT_GravisArmor": {
+  "GW_SM_TerminatorShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55219,7 +55219,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BL_GravisArmor": {
+  "GW_SM_TerminatorShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55239,7 +55239,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BR_GravisArmor": {
+  "GW_SM_TerminatorShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55259,7 +55259,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_CAR_GravisArmor": {
+  "GW_SM_GravisShoulderPads_NightLord": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55279,7 +55279,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_DA_GravisArmor": {
+  "GW_SM_GravisShoulderPads_TypeE": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55299,7 +55299,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IF_GravisArmor": {
+  "GW_SM_GravisShoulderPads_TypeD": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55319,7 +55319,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IH_GravisArmor": {
+  "GW_SM_GravisShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55339,7 +55339,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_LOTD_GravisArmor": {
+  "GW_SM_GravisShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55359,7 +55359,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_M_GravisArmor": {
+  "GW_SM_GravisShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55379,7 +55379,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_RG_GravisArmor": {
+  "GW_SM_TacticusShoulderPads_NightLord": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55399,7 +55399,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SL_GravisArmor": {
+  "GW_SM_TacticusShoulderPads_TypeD": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55419,7 +55419,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SW_GravisArmor": {
+  "GW_SM_TacticusShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55439,7 +55439,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_UM_GravisArmor": {
+  "GW_SM_TacticusShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55459,7 +55459,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_WS_GravisArmor": {
+  "GW_SM_TacticusShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55479,7 +55479,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BT_GravisHelmet": {
+  "GW_SM_AquillaShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55499,7 +55499,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BL_GravisHelmet": {
+  "GW_SM_AquillaShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55519,7 +55519,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BR_GravisHelmet": {
+  "GW_SM_AquillaShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55539,7 +55539,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_CAR_GravisHelmet": {
+  "GW_SM_CorvusShoulderPads_TypeD": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55559,7 +55559,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_DA_GravisHelmet": {
+  "GW_SM_CorvusShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55579,7 +55579,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_IF_GravisHelmet": {
+  "GW_SM_CorvusShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55599,7 +55599,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_IH_GravisHelmet": {
+  "GW_SM_CorvusShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55619,7 +55619,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_LOTD_GravisHelmet": {
+  "GW_SM_MaximusShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55639,7 +55639,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_M_GravisHelmet": {
+  "GW_SM_MaximusShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55659,7 +55659,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_RG_GravisHelmet": {
+  "GW_SM_MaximusShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55679,7 +55679,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_SL_GravisHelmet": {
+  "GW_SM_PhobosShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55699,7 +55699,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_SW_GravisHelmet": {
+  "GW_SM_PhobosShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55719,7 +55719,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_UM_GravisHelmet": {
+  "GW_SM_PhobosShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55739,7 +55739,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_WS_GravisHelmet": {
+  "GW_SM_ReiverShoulderPads_TypeD": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55759,7 +55759,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BT_MkVIIArmor": {
+  "GW_SM_ReiverShoulderPads_TypeC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55779,7 +55779,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BL_MkVIIArmor": {
+  "GW_SM_ReiverShoulderPads_TypeB": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55799,7 +55799,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BR_MkVIIArmor": {
+  "GW_SM_ReiverShoulderPads_TypeA": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55819,7 +55819,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_CAR_MkVIIArmor": {
+  "GW_SM_FibroVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55839,7 +55839,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_DA_MkVIIArmor": {
+  "GW_SM_TerminatorHelmet_Lensed": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55859,7 +55859,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IF_MkVIIArmor": {
+  "GW_SM_TerminatorHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55879,7 +55879,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IH_MkVIIArmor": {
+  "GW_SM_GravisHelmet_Winged": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55899,7 +55899,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_LOTD_MkVIIArmor": {
+  "GW_SM_GravisHelmet_ClosedInterceptor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55919,7 +55919,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_M_MkVIIArmor": {
+  "GW_SM_GravisHelmet_Interceptor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55939,7 +55939,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_RG_MkVIIArmor": {
+  "GW_SM_GravisHelmet_Laurels": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55959,7 +55959,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SL_MkVIIArmor": {
+  "GW_SM_GravisHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55979,7 +55979,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SW_MkVIIArmor": {
+  "GW_SM_GravisHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -55999,7 +55999,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_UM_MkVIIArmor": {
+  "GW_SM_TacticusHelmet_Winged": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56019,7 +56019,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_WS_MkVIIArmor": {
+  "GW_SM_TacticusHelmet_Laurels": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56039,7 +56039,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BT_MkVIIHelmet": {
+  "GW_SM_TacticusHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56059,7 +56059,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BL_MkVIIHelmet": {
+  "GW_SM_TacticusHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56079,7 +56079,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_BR_MkVIIHelmet": {
+  "GW_SM_AquillaHelmet_Winged": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56099,7 +56099,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_CAR_MkVIIHelmet": {
+  "GW_SM_AquillaHelmet_Laurels": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56119,7 +56119,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_DA_MkVIIHelmet": {
+  "GW_SM_AquillaHelmet_Studs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56139,7 +56139,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_IF_MkVIIHelmet": {
+  "GW_SM_AquillaHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56159,7 +56159,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_IH_MkVIIHelmet": {
+  "GW_SM_AquillaHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56179,7 +56179,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_LOTD_MkVIIHelmet": {
+  "GW_SM_CorvusHelmet_Laurels": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56199,7 +56199,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_M_MkVIIHelmet": {
+  "GW_SM_CorvusHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56219,7 +56219,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_RG_MkVIIHelmet": {
+  "GW_SM_CorvusHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56239,7 +56239,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_SL_MkVIIHelmet": {
+  "GW_SM_MaximusHelmet_Laurels": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56259,7 +56259,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_SW_MkVIIHelmet": {
+  "GW_SM_MaximusHelmet_Studs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56279,7 +56279,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_UM_MkVIIHelmet": {
+  "GW_SM_MaximusHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56299,7 +56299,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_FB_WS_MkVIIHelmet": {
+  "GW_SM_MaximusHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56319,7 +56319,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BT_MkXArmor": {
+  "GW_SM_PhobosHelmet_Reinforced": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56339,7 +56339,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BL_MkXArmor": {
+  "GW_SM_PhobosHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56359,7 +56359,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BR_MkXArmor": {
+  "GW_SM_PhobosHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56379,7 +56379,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_CAR_MkXArmor": {
+  "GW_SM_ReiverHelmet_Studs": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56399,7 +56399,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_DA_MkXArmor": {
+  "GW_SM_ReiverHelmet_Skull": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56419,7 +56419,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IF_MkXArmor": {
+  "GW_SM_ReiverHelmet_Simple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56439,7 +56439,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_IH_MkXArmor": {
+  "GW_SM_GravisBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56459,7 +56459,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_LOTD_MkXArmor": {
+  "GW_SM_TacticusBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56479,7 +56479,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_M_MkXArmor": {
+  "GW_SM_AquillaBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56499,7 +56499,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_RG_MkXArmor": {
+  "GW_SM_CorvusBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56519,7 +56519,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SL_MkXArmor": {
+  "GW_SM_MaximusBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56539,7 +56539,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_SW_MkXArmor": {
+  "GW_SM_PhobosBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56559,7 +56559,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_UM_MkXArmor": {
+  "GW_SM_ReiverBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56579,7 +56579,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_WS_MkXArmor": {
+  "GW_SM_IndomitusTerminatorArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56599,7 +56599,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BT_MkXHelmet": {
+  "GW_SM_GravisArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56619,7 +56619,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_LT_BT_MkXHelmet": {
+  "GW_SM_TacticusArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -56639,527 +56639,7 @@
     "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "ODZ_40k_AS_BL_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_BL_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_BR_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_BR_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_CAR_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_CAR_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_DA_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_DA_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_IF_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_IF_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_IH_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_IH_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LOTD_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_LOTD_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_M_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_M_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_RG_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_RG_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_SL_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_SL_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_SW_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_SW_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_UM_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_SG_UM_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_UM_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_WS_MkXHelmet": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Grimworld 40,000 - Angels of Death",
-    "KarmaType": null
-  },
-  "ODZ_40k_AS_LT_WS_MkXHelmet": {
+  "GW_SM_AquillaArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59579,7 +59059,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "GW_PrimarisShield": {
+  "GW_SM_CorvusArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59596,10 +59076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BlackTemplars-StormShield": {
+  "GW_SM_MaximusArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59616,10 +59096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BloodAngels-StormShield": {
+  "GW_SM_PhobosArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59636,10 +59116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BloodRavens-StormShield": {
+  "GW_SM_ReiverArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -59656,16 +59136,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Carcharodons-StormShield": {
+  "GW_SM_Gun_Burner": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59676,16 +59156,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_DarkAngels-StormShield": {
+  "GW_SM_Gun_HeavyFlamer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59696,16 +59176,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_ImperialFists-StormShield": {
+  "GW_SM_Gun_Flamer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59716,16 +59196,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_IronHands-StormShield": {
+  "GW_SM_Gun_GravPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59736,16 +59216,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Legion-StormShield": {
+  "GW_SM_Gun_GravRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59756,16 +59236,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Minotaurs-StormShield": {
+  "GW_SM_Gun_GravCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59776,16 +59256,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_RavenGuard-StormShield": {
+  "GW_SM_Melee_TermSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59796,16 +59276,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Salamanders-StormShield": {
+  "GW_SM_Melee_TermPowerFist": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59816,16 +59296,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_SpaceWolves-StormShield": {
+  "GW_SM_Melee_Thunder1hHammer": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59836,16 +59316,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Ultramarines-StormShield": {
+  "GW_SM_Gun_AstartesPlasmaCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59856,16 +59336,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_WhiteScars-StormShield": {
+  "GW_SM_Gun_PlasmaCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59876,16 +59356,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BlackTemplars-CombatShield": {
+  "GW_SM_Gun_StormBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59896,16 +59376,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BloodAngels-CombatShield": {
+  "GW_SM_Gun_ReaperCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59916,16 +59396,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_BloodRavens-CombatShield": {
+  "GW_SM_Gun_AssualtCannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59936,16 +59416,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Carcharodons-CombatShield": {
+  "GW_SM_MeleeWeapon_CombatKnife": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59956,16 +59436,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_DarkAngels-CombatShield": {
+  "GW_SM_Melee_ThunderHammer": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59976,16 +59456,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_ImperialFists-CombatShield": {
+  "GW_SM_Melee_FlameSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -59996,16 +59476,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_IronHands-CombatShield": {
+  "GW_SM_Melee_Powerfist": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60016,16 +59496,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Legion-CombatShield": {
+  "GW_SM_InfernoPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60036,16 +59516,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Minotaurs-CombatShield": {
+  "GW_SM_PlasmaPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60056,16 +59536,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_RavenGuard-CombatShield": {
+  "GW_SM_HeavyBoltPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60076,16 +59556,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Salamanders-CombatShield": {
+  "GW_SM_SniperRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60096,16 +59576,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_SpaceWolves-CombatShield": {
+  "GW_SM_AstartesShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -60116,10 +59596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_Ultramarines-CombatShield": {
+  "GW_SM_Building_Lascannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -60136,10 +59616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   },
-  "GW_WhiteScars-CombatShield": {
+  "GW_SM_Building_HeavyBolter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -60156,7 +59636,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Grimworld 40,000 - Angels of Death",
     "KarmaType": null
   }
 }
