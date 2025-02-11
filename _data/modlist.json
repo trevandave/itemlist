@@ -6,6 +6,36 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "Zaljerem",
+    "name": "Music Expanded Framework (Continued)",
+    "steamId": "3263001145",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "karbonpanzer",
+    "name": "Music Expanded: Mass Effect Legendary Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.1.1"
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
@@ -48,14 +78,14 @@
     "version": "1.0.0"
   },
   {
-    "author": "Abby Sciuto",
-    "name": "Sun Lamp Power",
+    "author": "Oskar Potocki, Taranchuk and xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Taranchuk and xrushha",
-    "name": "Vanilla Ideology Expanded - Anima Theme",
+    "author": "Abby Sciuto",
+    "name": "Sun Lamp Power",
     "steamId": null,
     "version": null
   },
@@ -66,6 +96,12 @@
     "version": "2.7.7366"
   },
   {
+    "author": "Localghost",
+    "name": "Blueprints - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Rimkit",
     "steamId": null,
@@ -74,6 +110,12 @@
   {
     "author": "plaxen",
     "name": "Malang Bodies ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Turret Pipeline",
     "steamId": null,
     "version": null
   },
@@ -604,12 +646,6 @@
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
