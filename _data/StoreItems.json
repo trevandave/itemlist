@@ -14573,7 +14573,19 @@
       "category": "Misc",
       "defname": "VFEI2_PherocoreXanides",
       "price": 1667
+    },
+    {
+      "abr": "prisonbed",
+      "category": "Furniture",
+      "defname": "PrisonBed",
+      "price": 121
+    },
+    {
+      "abr": "wallsunlamp",
+      "category": "Furniture",
+      "defname": "WallSunLamp",
+      "price": 97
     }
   ],
-  "total": 2429
+  "total": 2431
 }
