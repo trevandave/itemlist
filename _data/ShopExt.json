@@ -656,7 +656,7 @@
       "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever and is not bothered by darkness. However, Timmy will be unhappy while outdoors.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -1863,7 +1863,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [],
+      "stats": [
+        "+5.00% sanity loss multiplier"
+      ],
       "conflicts": [
         "brawler",
         "brave",
@@ -1876,7 +1878,9 @@
           "brave",
           "bloodlust"
         ],
-        "stats": [],
+        "stats": [
+          "+5.00% sanity loss multiplier"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3257,7 +3261,9 @@
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
-      "stats": [],
+      "stats": [
+        "x200% sanity multiplier"
+      ],
       "conflicts": [
         "iron-willed",
         "steadfast",
@@ -3272,7 +3278,9 @@
           "nervous",
           "volatile"
         ],
-        "stats": [],
+        "stats": [
+          "x200% sanity multiplier"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3423,6 +3431,400 @@
       "canRemove": true,
       "addPrice": 1,
       "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when him playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PerfectMemory",
+      "name": "perfectmemory"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
+      "stats": [
+        "+100% study efficiency",
+        "+50% entity study rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% study efficiency",
+          "+50% entity study rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Occultist",
+      "name": "occultist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "joyous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "bodymastery"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "disturbing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Void meditation focus type allowed.",
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Void meditation focus type allowed.",
+          "Only mental break \"entity liberator\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "voidfascination"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy's mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",
+      "stats": [
+        "-1.00% sanity gain per day"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-1.00% sanity gain per day"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Inhumanized",
+      "name": "inhumanized"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them.",
+      "stats": [
+        "x10% sanity gain multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x10% sanity gain multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_VoidTouched",
+      "name": "voidtouched"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague.",
+      "stats": [
+        "+100.00% sanity loss multiplier",
+        "x20% cleaning speed multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier",
+          "x20% cleaning speed multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Germaphobe",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is panicly afraid of commitment. he will actively refuse any attachment to others, and will never form any new relationships.",
+      "stats": [
+        "+100.00% sanity loss multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Noncommittal",
+      "name": "noncommittal"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy's emotional foundation is fragile, making him significantly more prone to crumbling under stress. he struggle to handle pressure, which often leads to breakdowns in challenging situations.",
+      "stats": [
+        "+12% mental break threshold",
+        "+100.00% sanity loss multiplier",
+        "x250% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+12% mental break threshold",
+          "+100.00% sanity loss multiplier",
+          "x250% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Unstable",
+      "name": "impulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy hyperfocuses on certain things when he feel like it, but most of the time he will struggle to concentrate on his task, severely affecting his work speed.",
+      "stats": [
+        "+100.00% sanity loss multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_Distractable",
+      "name": "distractable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy suffers from severe mood swings that can last anything between a day and a quadrum. One day he might be extremely happy, whilst the next day - extremely sad.",
+      "stats": [
+        "+100.00% sanity loss multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100.00% sanity loss multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Anomaly Expanded - Insanity",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VAEI_MoodSwings",
+      "name": "moodswings"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 2,
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [],
@@ -3505,268 +3907,6 @@
       },
       "defName": "Hygienic",
       "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is a biotic god.",
-      "stats": [
-        "x50 biotic energy limit",
-        "x50 biotic energy recovery rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x50 biotic energy limit",
-          "x50 biotic energy recovery rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_BioticGod",
-      "name": "bioticgod"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": -2,
-      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
-      "stats": [
-        "-0.8 biotic energy recovery rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-0.8 biotic energy recovery rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydeaf"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": -1,
-      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
-      "stats": [
-        "-0.5 biotic energy recovery rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-0.5 biotic energy recovery rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydull"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 1,
-      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
-      "stats": [
-        "+0.5 biotic energy recovery rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.5 biotic energy recovery rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallyskilled"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 2,
-      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
-      "stats": [
-        "+2 biotic energy recovery rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 biotic energy recovery rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallytalented"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is a Demon of the Night Winds.",
-      "stats": [
-        "x150% biotic energy limit",
-        "x200% biotic energy recovery rate",
-        "x50% biotic ability cost multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x150% biotic energy limit",
-          "x200% biotic energy recovery rate",
-          "x50% biotic ability cost multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Asari and Reapers",
-        "karmaTypeForAdding": null
-      },
-      "defName": "RE_ArdatYakshi",
-      "name": "ardatyakshi"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
-      "stats": [],
-      "conflicts": [
-        "abrasive",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Flirty",
-      "name": "flirty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
-      "stats": [],
-      "conflicts": [
-        "bloodlust",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bloodlust",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Distressed",
-      "name": "distressed"
     }
   ],
   "races": [
@@ -3778,8 +3918,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3798,46 +3938,20 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+$2000 Market value",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+4 Honor value",
-          "+2.0 Beauty",
-          "+2 Biotic energy limit",
-          "+1 Biotic energy recovery rate",
-          "+100.0% Biotic ability cost multiplier"
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.",
-      "defName": "RE_Asari",
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "CreepJoiner",
       "enabled": true,
-      "name": "asari",
-      "price": 1
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+26.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long.",
-      "defName": "RE_Drell",
-      "enabled": true,
-      "name": "drell",
+      "name": "human",
       "price": 1
     }
   ]

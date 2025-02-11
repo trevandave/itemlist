@@ -18,6 +18,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Derek Bickley",
+    "name": "[JAIL] Prison Walls and Beds (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and ISOREX",
+    "name": "Pawn Editor",
+    "steamId": "3219801790",
+    "version": "1.0.9"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
     "author": "Oskar Potocki, xrushha, legodude17 and Allie",
     "name": "Vanilla Factions Expanded - Empire",
     "steamId": "2938820380",
@@ -28,6 +46,12 @@
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
     "version": "1.0.0"
+  },
+  {
+    "author": "Abby Sciuto",
+    "name": "Sun Lamp Power",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
@@ -64,6 +88,12 @@
     "name": "ToolkitCore",
     "steamId": "3013877477",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Xercaine",
+    "name": "Wall Sun Lamp",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
